@@ -1,0 +1,800 @@
+Figure
+Patient
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Shenzhen, China
+Shenzhen, China
+Shenzhen, China
+Sichuan, China
+Sichuan, China
+Sichuan, China
+Sichuan, China
+Shanghai, China
+Shanghai, China
+Shanghai, China
+Shenzhen, China
+Shenzhen, China
+Shenzhen, China
+Shenzhen, China
+Shenzhen, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Zhejiang, China 
+Zhejiang, China 
+Zhejiang, China 
+Zhejiang, China 
+Zhejiang, China 
+Zhejiang, China 
+Beijing, China
+Beijing, China
+Beijing, China
+Beijing, China
+Hubei, China
+Hubei, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Beijing, China
+Beijing, China
+
+
+
+
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+Hubei, China
+China
+China
+China
+China
+China
+China
+China
+China
+China
+China
+Hunan, China
+Hunan, China
+Hunan, China
+Guangdon, China
+Guangdon, China
+Guangdon, China
+Guangdon, China
+Guangdon, China
+Hunan, China
+Hunan, China
+Hunan, China
+Hunan, China
+Hunan, China
+Hunan, China
+Shanghai, China
+Shanghai, China
+Shanghai, China
+Shanghai, China
+Shanghai, China
+Shanghai, China
+Shanghai, China
+Shanghai, China
+Shanghai, China
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+
+
+
+
+Changsha, China.
+Changsha, China.
+Changsha, China.
+Changsha, China.
+Changsha, China.
+Changsha, China.
+Changsha, China.
+Changsha, China.
+Jingmen, Hubei, China
+Jingmen, Hubei, China
+Jingmen, Hubei, China
+Jingmen, Hubei, China
+China
+China
+China
+China
+
+
+
+
+China
+China
+China
+China
+Qingdao, China
+Qingdao, China
+Qingdao, China
+Qingdao, China
+
+
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+China
+China
+China
+China
+China
+China
+China
+China
+China
+China
+China
+China
+China
+China
+China
+China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+a cruise ship “Diamond Princess” in Japan. 
+a cruise ship “Diamond Princess” in Japan. 
+a cruise ship “Diamond Princess” in Japan. 
+a cruise ship “Diamond Princess” in Japan. 
+a cruise ship “Diamond Princess” in Japan. 
+a cruise ship “Diamond Princess” in Japan. 
+a cruise ship “Diamond Princess” in Japan. 
+a cruise ship “Diamond Princess” in Japan. 
+a cruise ship “Diamond Princess” in Japan. 
+a cruise ship “Diamond Princess” in Japan. 
+Hainan, China
+Hainan, China
+Hainan, China
+Hainan, China
+Hainan, China
+Hainan, China
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+Xi'an, China 
+Xi'an, China 
+Xi'an, China 
+Xi'an, China 
+Xi'an, China 
+Xi'an, China 
+Xi'an, China 
+Xi'an, China 
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+Wuhan, China 
+the
+and
+of
+day
+with
+in
+ct
+images
+chest
+1
+a
+on
+were
+patient
+illness
+2020
+after
+from
+february
+to
+(hospital
+4
+2
+']
+covid-19
+3
+5
+lungs
+lung
+was
+patients
+computed
+showed
+case
+symptom
+showing
+onset
+january
+prediction
+hospital
+7
+tomography
+by
+image
+multiple 
+results
+model
+['figure
+6
+b
+for
+disease
+(ct)
+man
+treatment
+absorbed
+(b)
+admission
+(day
+scan
+group 
+china 
+(a) 
+
+infected 
+areas 
+representative 
+(c) 
+(d) 
+imaging 
+days 
+10 
+into
+changes
+suspected
+8
+pulmonary
+tomographic
+taken
+at
+obtained
+as
+features 
+processing
+output
+consecutive
+2019
+coronavirus
+is
+lobe
+infection
+lesion
+course
+increased
+shows
+lobes
+large
+peripheral
+boxes
+panel)
+red
+are
+effusion
+50-year-old
+interlobular
+progressed
+30
+31
+area
+female
+found
+various
+c
+absorption
+septal
+near
+il-6
+two
+9
+or
+fever
+scans
+further
+cases
+(a
+old
+critical
+three
+typical
+mainly
+four
+same
+only
+heart
+predictions
+baseline
+show
+change
+extensive
+findings
+male
+be
+fields
+(f)
+stage
+adjacent
+novel
+(2019-ncov)
+(illness
+survival
+schematic
+raw
+firstly
+input
+framing
+valid
+extracting
+unnecesary
+filter
+out
+avoid
+false
+positives
+predict
+logic
+linking
+added
+quadrants
+would
+when
+predicted
+have
+quadrant
+discharged
+small
+years
+failure
+axial
+also
+d
+asymptomatic
+radiographic
+density
+air
+woman
+distribution
+b)
+mixed
+before
+(e)
+11
+positive
+9)
+seen
+partial
+observed
+first
+revelaed
+right
+left
+15
+dissipation
+which
+some
+consolidations
+bronchogram
+mortality
+year-old
+obviously
+correlated
+serious
+conditions
+who
+non-severe
+died
+frosted
+exhibiting
+swab
+a-1)
+a-2)
+ctscansofthe2019-ncovnucleicacid–detectedpositivepatientsincreasingandmultifocalground-glasschangeswerevisible(a)patient1january302020(hospital
+b-1);
+b-2)
+c-1);
+c-2)
+d-1);
+d-2)
+e-1);
+e-2)
+f-1);
+f-2)
+high
+slightly
+unilateral
+second
+e
+treatment']
+indicate
+lobe['figure
+cord
+lung']
+present
+segment
+interferon
+nebulization
+cough
+elevated
+focal
+(figure
+segments
+3)
+local
+model's
+labels
+clinical
+conjuntivitis
+dip
+ncp
+without
+figure
+negative
+not
+therapy
+viral
+indicated
+fourth
+sars-cov-2
+progression
+edges
+expansion
+x
+middle
+arrows
+(yellow
+19
+thin-sections
+follows
+normal
+1)
+other
+reduced
+expanding
+distributed
+progress
+borderline
+d)
+arrow
+an
+inside
+0
+%
+variation
+presenting
+follow-up
+posterior
+(arrow)
+cts
+panel
+depicted
+aged
+65-year-old
+period
+22
+intrapulmonary
+significantly
+dissipated
+meplazumab
+addon
+plus
+fig2
+26-year-old
+122020
+2020revealed
+dramatically
+return
+resulted
+highly
+involvement
+tomograms
+32
+year
+(top
+(bottom
+anti-ntm
+28
+2017)
+f
+no
+zone
+39
+blue
+green
+burrs
+growth
+apical
+bronchodilation
+divided
+lower
+both
+upper
+transverse
+possible
+extracted
+unnecesary
+above
+revealed
+a-1)
+conjunctivitis
+x
+thin-section
+arrow)
+surrounding
+receiving
+manifestations
+resolution
+pericardial
+multifocal
+lopinavir/ritonavir
+respiratory
+illness)
+wuhan
+lung['figure
+clear
+moderate
+ambiguous
+characterized
+vessels
+high-density
+presented
+predominant
+zones
+pure
+together
+consolidation(c
+(e
+f)
+7-day
+represent
+characteristics
+thickened
+solid
+bronchiectasis
+<
+photographs
+regarding
+(d-f)dynamic
+arrows)
+illuminate
+caused
+infectionthe
+aggravated
+10th
+basically
+18th
+coronal
+severity
+assessed
+decrease
+positively
+improvement
+line
+around
+region)
+ncp['figure
+21
+region
+group['figure
+patients']
+peribronchovascular
+different
+paediatric
+new
+involving
+parietal
+(c
+increase
+danoprevir/ritonavir
+s1
+dynamic
+computer
+a1–a3
+70-
+a1
+a2
+4)
+a3
+below
+scattered
+sheet
+stones
+repetitively
+b1–b3
+44-year-old
+b1
+lungs;
+b2
+hyaline
+stone
+signs
+b3
+20)
+significant
+fig3
+62-year-old
+112020
+rapidly
+162020
+tests
+radiographs
+abnormal
+lobar
+especially
+did
+another
+score
+lobular
+consolidation['figure
+imageology
+36
+years-old
+2019-cov
+disease;
+7;
+under
+that
++
+reexamination
+reticular
+light
+covid19
+between
+artificial
+intelligence
+radiologists
+consistent
+radiologists;
+model']
+control
+ordinary
+bacterial
+has
+third
+secondary
+tuberculosis
+complicated
+fifth
+completely
+(left
+view
+(right
+represented
+adjunctive
+there
+obvious
+sign
+history
+recent
+travel
+non-contrast
+confluent
+enlargement
+enlarged
+accompanied
+big
+effusion']
+treated
+×
+a-1);
+walking['figure
+changes['figure
+become
+range['figure
+inside['figure
+50%['figure
+
+switched
+distribution']
+40-year-old
+phlegm
+but
+white
+hypoxemia
+oxygen
+pathogens
+he
+clearly
+early
+0)
+7)']
+20
+12)
+rnas
+detected
+samples
+2019-ncov
+located
+demonstrated
+occurred
+distribution)
+(both
+(25-50%
+quantification
+eat
+examples
+dark
+eats
+tissues
+groups
+(marked
+scale
+bar
+cm
+(the
+451
+suspicious
+unnecessary
